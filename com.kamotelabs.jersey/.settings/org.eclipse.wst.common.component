@@ -4,6 +4,7 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/rest"/>
         <property name="context-root" value="com.kamotelabs.jersey"/>
         <property name="java-output-path" value="/com.kamotelabs.jersey/target/classes"/>
     </wb-module>
